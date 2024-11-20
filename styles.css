@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color:blueviolet;
+}
+
+.c1 {
+    color:magenta;
+}
+
+.imgn {
+    color:black;
+    background-color: cornflowerblue;
+    width: 500px;
+    height: 600px;
+}
+
+.c2{
+    color:blueviolet;
+}
+
+.c3{
+    color:blueviolet;
+    background-color: beige;
+    width: 300;
+    height: 100;
+}
