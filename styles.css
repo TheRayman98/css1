@@ -1,13 +1,26 @@
 body {
     text-align: center;
+    background-color: beige;
 }
 
 h1 {
+    display: block;
     color:blueviolet;
+    background-color: aquamarine;
+    width: 200px;
+    height: 50px;
+    border: 20px solid turquoise;
+    margin: auto;
 }
 
 .c1 {
+    display: block;
+    background-color: greenyellow;
     color:magenta;
+    width: 100px;
+    height: 20px;
+    border: 20px solid pink;
+    margin: auto;
 }
 
 .imgn {
@@ -26,4 +39,21 @@ h1 {
     background-color: beige;
     width: 300;
     height: 100;
+}
+
+h5 {
+    display: block;
+    background-color: purple;
+    padding: 30px;
+    border: 5px solid red;
+    margin: 10px;
+
+}
+
+button {
+    color:aliceblue;
+    background-color: black;
+    padding: 30px;
+    border: 5px solid violet;
+    margin: 10px;
 }
