@@ -24,6 +24,7 @@ h1 {
 }
 
 .imgn {
+    margin: auto;
     color:black;
     background-color: cornflowerblue;
     width: 500px;
@@ -31,12 +32,15 @@ h1 {
 }
 
 .c2{
+    display: block;
     color:blueviolet;
+    margin: auto;
 }
 
 .c3{
+    margin: auto;
     color:blueviolet;
-    background-color: beige;
+    background-color: orange;
     width: 300;
     height: 100;
 }
